@@ -1,6 +1,6 @@
 # 📊 Excel Sales Performance Dashboard
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is an interactive Sales Performance Dashboard built entirely in Microsoft Excel.
 
@@ -10,7 +10,7 @@ It helps stakeholders monitor sales performance, profitability, customer behavio
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Businesses generate large amounts of transactional data every day.
 
@@ -26,7 +26,7 @@ This dashboard was created to answer key business questions:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -40,7 +40,7 @@ This dashboard was created to answer key business questions:
 
 ## 📂 Project Workflow
 
-### 1️⃣ Data Collection
+### 1️ Data Collection
 
 Used the Superstore Sales Dataset containing:
 
@@ -54,7 +54,7 @@ Used the Superstore Sales Dataset containing:
 
 ---
 
-### 2️⃣ Data Cleaning
+### 2️ Data Cleaning
 
 Performed:
 
@@ -66,7 +66,7 @@ Performed:
 
 ---
 
-### 3️⃣ Data Analysis
+### 3️ Data Analysis
 
 Created Pivot Tables to analyze:
 
@@ -78,7 +78,7 @@ Created Pivot Tables to analyze:
 
 ---
 
-### 4️⃣ Dashboard Development
+### 4️ Dashboard Development
 
 Built an interactive dashboard containing:
 
@@ -98,7 +98,7 @@ Built an interactive dashboard containing:
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 | KPI | Description |
 |------|-------------|
@@ -109,7 +109,7 @@ Built an interactive dashboard containing:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Main Dashboard
 
