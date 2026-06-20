@@ -8,7 +8,6 @@ The dashboard transforms raw sales data into meaningful business insights using 
 
 It helps stakeholders monitor sales performance, profitability, customer behavior, and regional trends in a visually appealing and interactive format.
 
----
 
 ##  Business Problem
 
@@ -24,7 +23,6 @@ This dashboard was created to answer key business questions:
 - How are sales changing over time?
 - Which customer segments contribute most revenue?
 
----
 
 ## Tools & Technologies
 
@@ -36,7 +34,6 @@ This dashboard was created to answer key business questions:
 - Excel Formulas
 - Data Cleaning Techniques
 
----
 
 ## 📂 Project Workflow
 
@@ -52,7 +49,6 @@ Used the Superstore Sales Dataset containing:
 - Profit
 - Regions
 
----
 
 ### 2️ Data Cleaning
 
@@ -64,7 +60,6 @@ Performed:
 - Created helper columns
 - Calculated Shipping Days
 
----
 
 ### 3️ Data Analysis
 
@@ -76,7 +71,6 @@ Created Pivot Tables to analyze:
 - Customer Segment Performance
 - Profitability Analysis
 
----
 
 ### 4️ Dashboard Development
 
@@ -96,7 +90,6 @@ Built an interactive dashboard containing:
 
 ✅ Interactive Charts
 
----
 
 ##  Key Performance Indicators (KPIs)
 
@@ -107,27 +100,6 @@ Built an interactive dashboard containing:
 | Total Orders | Number of orders processed |
 | Average Shipping Days | Average delivery duration |
 
----
-
-##  Dashboard Preview
-
-### Main Dashboard
-
-![Dashboard](Screenshots/Dashboard.png)
-
----
-
-### Data Cleaning Process
-
-![Data Cleaning](Screenshots/DataCleaning.png)
-
----
-
-### Pivot Table Analysis
-
-![Pivot Analysis](Screenshots/PivotAnalysis.png)
-
----
 
 ## 💡 Business Insights
 
@@ -136,7 +108,6 @@ Built an interactive dashboard containing:
 - Sales peaked during specific months indicating seasonal trends.
 - A small number of products contributed significantly to total sales.
 
----
 
 ## 🎓 Skills Demonstrated
 
@@ -158,7 +129,6 @@ Built an interactive dashboard containing:
 - Performance Reporting
 - Data Visualization
 
----
 
 ## 📁 Repository Structure
 
@@ -176,7 +146,6 @@ Excel-Sales-Performance-Dashboard
 └── README.md
 ```
 
----
 
 ## 👨‍💻 Author
 
@@ -184,7 +153,6 @@ Excel-Sales-Performance-Dashboard
 
 AIML Engineering Student | Data Analytics Enthusiast | Full Stack Developer
 
----
 
 ## ⭐ Project Highlights
 
